@@ -20,7 +20,7 @@ import android.widget.TextView;
 
 import static android.provider.AlarmClock.EXTRA_MESSAGE;
 
-
+// why is that?
 public class loginscreen extends AppCompatActivity {
 
     @Override
